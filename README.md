@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdhinesh25&label=Profile%20views&color=0e75b6&style=flat" alt="sdhinesh25" /> </p>
 
-- 👨‍💻 All of my projects are available at [dhineshprojects.ccbp.tech](dhineshprojects.ccbp.tech)
+- 👨‍💻 All of my projects are available at <a href="https://dhineshprojects.ccbp.tech/" target="_blank">dhineshsprojects.ccbp.tech</a>
 
 - 📫 How to reach me **dineshs17160@gmail.com**
 
